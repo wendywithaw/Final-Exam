@@ -1,0 +1,41 @@
+<doctype>
+<css>
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  div {
+    align-content: center;
+    background-color: #F97380;
+    max-width: 700px;
+  }
+  div.column1 {
+    width: 66%;
+    float: left;
+    margin-top: 35px;
+  }
+  div.column2 {
+    width: 34%;
+    float: right;
+    margin-top: 35px;
+  }
+  a {
+    color: green;
+  }
+  h3 {
+    font-weight: normal;
+    font: Georgia;
+  }
+  h2 {
+    margin-top: 0px;
+    font-size: 24px;
+    font-style: italic;
+    font: Georgia;
+  }
+  h1 {
+    font: Georgia;
+  }
+  p.source {
+    border-bottom-style: 5px, #E8E8E8;
+    border-spacing: 20px;
+  }

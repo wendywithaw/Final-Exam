@@ -1,11 +1,18 @@
 <doctype>
 <css>
-  img {
-    max-width: 100%;
+  body {
+    align-content: center;
+    background: darkgray;
+  }
+  img.photo1 {
+    max-width: 66%;
     height: auto;
   }
-  div {
+  img.photo2 {
+    width: 66%;
     align-content: center;
+  }
+  div {
     background-color: #F97380;
     max-width: 700px;
   }

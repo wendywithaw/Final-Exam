@@ -12,11 +12,15 @@
   div.column1 {
     width: 66%;
     float: left;
+<<<<<<< HEAD
     margin-top: 35px;
+=======
+>>>>>>> 92b92a883bf0f2c381148a5d2effce8ee3c7b3b2
   }
   div.column2 {
     width: 34%;
     float: right;
+<<<<<<< HEAD
     margin-top: 35px;
   }
   a {
@@ -38,4 +42,6 @@
   p.source {
     border-bottom-style: 5px, #E8E8E8;
     border-spacing: 20px;
+=======
+>>>>>>> 92b92a883bf0f2c381148a5d2effce8ee3c7b3b2
   }

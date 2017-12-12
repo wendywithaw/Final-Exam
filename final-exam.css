@@ -19,11 +19,22 @@
   div.column1 {
     width: 66%;
     float: left;
+<<<<<<< HEAD
     margin-top: 35px;
+=======
+<<<<<<< HEAD
+    margin-top: 35px;
+=======
+>>>>>>> 92b92a883bf0f2c381148a5d2effce8ee3c7b3b2
+>>>>>>> 01e5487e421a11f19129c8ed04e988c4fa2e7540
   }
   div.column2 {
     width: 34%;
     float: right;
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 01e5487e421a11f19129c8ed04e988c4fa2e7540
     margin-top: 35px;
   }
   a {
@@ -45,4 +56,9 @@
   p.source {
     border-bottom-style: 5px, #E8E8E8;
     border-spacing: 20px;
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> 92b92a883bf0f2c381148a5d2effce8ee3c7b3b2
+>>>>>>> 01e5487e421a11f19129c8ed04e988c4fa2e7540
   }
